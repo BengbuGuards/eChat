@@ -23,3 +23,11 @@
   客户端具有向某人或全体成员发信息、提醒某人或全体成员、向某人传输文件的功能。受禁言时无法使用上述功能。
 
   说明：传输文件需要保证服务端C盘有足够空间（一般无需担心）、双方都连接上FTP服务器（与负责消息处理的服务端无关），若未能自动连接，请断开与服务端的连接再重连。
+
+## 外部链接
+
+  1. FTP服务器来源 [Slyar FTPserver](https://www.slyar.com/blog/slyar-ftpserver.html)
+
+  2. 设计有所参考 <https://www.bilibili.com/video/av754466413/> ，但是完全重写
+
+  3. 图标来源 Material Design Icons
